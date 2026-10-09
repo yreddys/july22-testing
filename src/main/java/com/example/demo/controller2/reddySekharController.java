@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class reddySekharController {
 	@GetMapping("f-reddy")
 	public String testController() {
-		return "Hello reddy from feature branch";
+		return "f-sekhar";
 	}
 
 
