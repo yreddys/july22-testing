@@ -8,7 +8,7 @@ public class reddySekharController {
 	@GetMapping("f-reddy")
 	public String testController() {
 
-		return "main";
+		return "main-testing";
 
 	}
 
